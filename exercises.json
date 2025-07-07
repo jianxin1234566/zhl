@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "title": "AI 智能对决",
+    "description": "嵌入 QAnything，体验未来问答与人机交互的极限碰撞。",
+    "link": "/practice/embed-demo",
+    "imageUrl": "https://images.unsplash.com/photo-1464983953574-0892a716854b?q=80&w=1200&auto=format&fit=crop",
+    "tags": ["AI", "集成", "QAnything"]
+  },
+  {
+    "id": 2,
+    "title": "组件战场",
+    "description": "React 组件实战，打造属于你的前端武器库。",
+    "link": "/practice/my-app",
+    "imageUrl": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?q=80&w=1200&auto=format&fit=crop",
+    "tags": ["React", "实战"]
+  },
+  {
+    "id": 3,
+    "title": "样式觉醒",
+    "description": "CSS 基础技能觉醒，掌控选择器与属性的力量。",
+    "link": "/practice/03-css-01",
+    "imageUrl": "https://images.unsplash.com/photo-1464983953574-0892a716854b?q=80&w=1200&auto=format&fit=crop",
+    "tags": ["CSS", "基础"]
+  },
+  {
+    "id": 4,
+    "title": "盒影迷阵",
+    "description": "解锁盒模型与布局迷阵，体验 Flex 的极致操控。",
+    "link": "/practice/03-css-02",
+    "imageUrl": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=1200&auto=format&fit=crop",
+    "tags": ["CSS", "盒模型"]
+  },
+  {
+    "id": 5,
+    "title": "浮动风暴",
+    "description": "掌控浮动与定位，布局世界由你主宰。",
+    "link": "/practice/04-css-01",
+    "imageUrl": "https://images.unsplash.com/photo-1468581264429-2548ef9eb732?q=80&w=1200&auto=format&fit=crop",
+    "tags": ["CSS", "布局"]
+  },
+  {
+    "id": 6,
+    "title": "定位幻境",
+    "description": "绝对与相对的幻境，定位规则尽在掌控。",
+    "link": "/practice/04-css-02",
+    "imageUrl": "https://images.unsplash.com/photo-1468071174046-657d9d351a40?q=80&w=1200&auto=format&fit=crop",
+    "tags": ["CSS", "定位"]
+  },
+  {
+    "id": 7,
+    "title": "相对空间",
+    "description": "探索相对定位的空间奥秘，布局更灵动。",
+    "link": "/practice/04-css-02-relative",
+    "imageUrl": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?q=80&w=1200&auto=format&fit=crop",
+    "tags": ["CSS", "定位"]
+  },
+  {
+    "id": 8,
+    "title": "新闻前线",
+    "description": "HTML+CSS 构建静态新闻战场，信息一触即发。",
+    "link": "/practice/05-news01",
+    "imageUrl": "https://images.unsplash.com/photo-1464983953574-0892a716854b?q=80&w=1200&auto=format&fit=crop",
+    "tags": ["HTML", "CSS"]
+  },
+  {
+    "id": 9,
+    "title": "交互突击",
+    "description": "JavaScript 交互实战，新闻页面动感升级。",
+    "link": "/practice/06-news01",
+    "imageUrl": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?q=80&w=1200&auto=format&fit=crop",
+    "tags": ["JavaScript", "DOM"]
+  },
+  {
+    "id": 10,
+    "title": "脚本矩阵",
+    "description": "复杂布局与脚本矩阵，新闻世界由你编排。",
+    "link": "/practice/06-news02",
+    "imageUrl": "https://images.unsplash.com/photo-1468581264429-2548ef9eb732?q=80&w=1200&auto=format&fit=crop",
+    "tags": ["JavaScript", "布局"]
+  },
+  {
+    "id": 11,
+    "title": "异步猎手",
+    "description": "Promise 与 async/await，异步世界的猎手之道。",
+    "link": "/practice/07-async-01",
+    "imageUrl": "https://images.unsplash.com/photo-1468071174046-657d9d351a40?q=80&w=1200&auto=format&fit=crop",
+    "tags": ["JavaScript", "异步"]
+  },
+  {
+    "id": 12,
+    "title": "数据追踪者",
+    "description": "fetch API 数据追踪，实时掌控仓库动态。",
+    "link": "/practice/07-async-02",
+    "imageUrl": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?q=80&w=1200&auto=format&fit=crop",
+    "tags": ["JavaScript", "API"]
+  },
+  {
+    "id": 13,
+    "title": "原点大厅",
+    "description": "静态 HTML 原点大厅，见证一切的起点。",
+    "link": "/practice/index",
+    "imageUrl": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?q=80&w=1200&auto=format&fit=crop",
+    "tags": ["HTML"]
+  }
+] 
